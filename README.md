@@ -47,7 +47,7 @@ Welcome to my first case study in Excel-based Exploratory Data Analysis. This pr
 ---
 
 ## 🔗 Relevant Links
-- [Excel Workbook with PivotTables & Dashboard](https://github.com/ChiomaM12/Amazon-_case_study/blob/main/Amazon%20case%20study.xlsx)  
+- [Excel Workbook with PivotTables & Dashboard](https://github.com/ChiomaM12/Amazon-_case_study/raw/main/Amazon%20case%20study.xlsx)  
     
 ---
 
